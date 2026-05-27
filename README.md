@@ -27,8 +27,13 @@ Crie um programa (em qualquer linguagem, mas executado em modo **Shell**) que:
 
 Para executar o projeto, utilize um dos seguintes comandos a partir da pasta raiz:
 
-- `npm start`  
-- `node ./app.js`
+```bash
+npm start
+```  
+
+```bash
+node ./app.js
+```
 
 Ambos iniciam a aplicação corretamente.
 
