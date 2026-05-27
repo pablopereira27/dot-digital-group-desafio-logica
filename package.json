@@ -1,0 +1,21 @@
+{
+  "name": "dot-digital-group-desafio-logica",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/pablopereira27/dot-digital-group-desafio-logica#readme",
+  "bugs": {
+    "url": "https://github.com/pablopereira27/dot-digital-group-desafio-logica/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablopereira27/dot-digital-group-desafio-logica.git"
+  },
+  "license": "ISC",
+  "author": "pablopereira27@gmail.com",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
