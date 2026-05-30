@@ -1,4 +1,4 @@
-# 🚀 Desafio de Lógica - Dot Digital Group
+# 🚀 Logic Challenge - Dot Digital Group
 
 ## 🎯 Objetivo
 Crie um programa (em qualquer linguagem, mas executado em modo **Shell**) que:
